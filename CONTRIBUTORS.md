@@ -1,3 +1,8 @@
+#### Name: Vaisakh R S (https://github.com/Vaisakh-RS)
+ - Place: Kerala,India
+ - Bio: Grad Student,Beginner,App and web dev
+ - GitHub: [Vaisakh-RS](https://github.com/Vaisakh-RS)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
